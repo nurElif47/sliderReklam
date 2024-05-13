@@ -1,0 +1,232 @@
+.reklam
+{
+	margin-top:20px;
+}
+
+.menum
+{
+	background-repeat:repeat;
+	height: 40px;
+	width:790px;
+	float:left;
+	background-color:#999;
+}
+
+.menum ul
+{
+	padding:0px;
+	list-style-type: none;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-left:20px;
+}
+
+.menum ul li a
+{
+	float: left;
+	height:40px;
+	width:110px;
+	display:block;
+	text-decoration: bold;
+	text-align:center;
+	line-height:40px;
+}
+
+.menum ul li a:hover
+{
+	float:left;
+	height:40px;
+	width:110px;
+	display:block;
+	text-decoration:none;
+	color:#69F;
+	font-weight:bold;
+	text-align:center;
+	line-height:40px;
+}
+
+.menu
+{
+	margin-left:195px;
+	width:900px;
+	height:40px;
+	background-color:#999;
+}
+
+.logo
+{
+	margin-left:550px;
+	width:160px;
+	height:80px;
+}
+
+
+.one
+{
+	background-color:#999;
+	margin-left:195px;
+	margin-top:20px;
+	width:900px;
+	height:380px;
+}
+
+.two
+{
+	width:210px;
+	height:350px;
+	background-color:#9CF;
+	margin-top:20px;
+	margin-left:10px;
+}
+
+.iki
+{
+	width:201px;
+	height:157px;
+	margin-left:5px;
+	margin-top:5px;
+	float:left;
+}
+
+.three
+{
+	width:210px;
+	height:350px;
+	background-color:#9CF;
+	margin-top:20px;
+	margin-left:220px;
+}
+
+.uc
+{
+	width:201px;
+	height:157px;
+	margin-left:5px;
+	margin-top:5px;
+	float:left;
+}
+
+.four
+{
+	width:210px;
+	height:350px;
+	background-color:#9CF;
+	margin-top:20px;
+	margin-left:220px;
+}
+
+.dort
+{
+	width:201px;
+	height:157px;
+	margin-left:5px;
+	margin-top:5px;
+	float:left;
+}
+
+.five
+{
+	width:210px;
+	height:350px;
+	background-color:#9CF;
+	margin-top:20px;
+	margin-left:220px;
+}
+
+.bes
+{
+	width:201px;
+	height:157px;
+	margin-left:5px;
+	margin-top:5px;
+	float:left;
+}
+
+.icerik
+{
+	width:900px;
+	height:300px;
+	background-color:#999;
+	margin-left:195px;
+	margin-top:10px;
+}
+
+.resimler
+{
+	width:200px;
+	height:190px;
+	margin-top:10px;
+	background-color:#99F;
+	float:left;
+}
+
+.yazi
+{
+	width:600px;
+	height:250px;
+	background-color:#CCC;
+	margin-left:10px;
+	margin-top:10px;
+	float:left;
+}
+
+.resim1
+{
+	width:100px;
+	height:100px;
+	float:left;
+}
+
+.resim2
+{
+	width:100px;
+	height:100px;
+	float:left;
+}
+
+.temizle
+{
+	clear:both;
+}
+
+.resim3
+{
+	width:100px;
+	height:100px;
+	float:left;
+}
+
+.resim4
+{
+	width:100px;
+	height:100px;
+	float:left;
+}
+
+.of
+{
+	width:90px;
+	height:67px;
+	margin-left:10px;
+	float:left;
+}
+
+.yaz
+{
+	width:900px;
+	height:100px;
+	background-color:#999;
+	margin-left:195px;
+	margin-top:10px;
+}
+
+.bit
+{
+	width:900px;
+	height:100px;
+	background-color:#CCC;
+	margin-top:10px;
+	margin-left:195px;
+}
+
